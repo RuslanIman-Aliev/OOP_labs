@@ -11,7 +11,7 @@ struct Group
     string type;
     int number;
     string teacher;
-    int childrenCount;
+    int childrenCount; 
 };
 
 Group groups[MAX_GROUPS];
